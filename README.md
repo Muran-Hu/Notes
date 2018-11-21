@@ -46,7 +46,7 @@
             Resources.getSystem().getDisplayMetrics());
     }
 
-# 3. Android动画
+# 4. Android动画
 #### 1. Animation - 属性动画
 ###### 1.1 View Animation - 纯粹基于framework的绘制转变，很少用到
 ###### 1.2 Property Animation - 属性动画，Android 3.0 引入，目前项目中应用占到99%
