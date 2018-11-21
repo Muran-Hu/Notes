@@ -44,7 +44,7 @@
     public static float dpToPixel(float dp) {
     return  TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, dp,
             Resources.getSystem().getDisplayMetrics());
-   }
+    }
 
 # 3. Android动画
 #### 1. Animation - 属性动画
